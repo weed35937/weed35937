@@ -1,4 +1,4 @@
-# Ryan Cheng
+# 🏆Ryan Cheng🏆
 
 > Talented JavaScript Developer specialized with various JS FrameWork
 
@@ -6,15 +6,15 @@
 
 > An ecstatic designer with an outdoor aesthetic that is full of attractive designs
 
-## [Intruduction](https://weed35937.web.app/)
+## [👉Intruduction](https://weed35937.web.app/)
 
-Who I am:
+🎯Who I am🎯:
 
-1.  `FullStack` Developer
-2.  `Deginer`
-3.  `BlockChain` Developer
+1.  `👑FullStack👑` Developer
+2.  `🎀Deginer🎀`
+3.  `🔗BlockChain🔗` Developer
 
-## Education
+## 🥇Education🥇
 
 ```bash
 University of Hong Kong
@@ -25,14 +25,14 @@ Grade :8.41 CGPA
 
 > I got a Bachelor's degree in Computer Science at University of Hong Kong. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.
 
-## Work Experience
+## 💼Work Experience💼
 
 ```ini
 FullStack Developer
 SCS Group, Inc.
 May 2022 - August 2024
 
-[Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS.]
+>Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS.
 ```
 
 ```ini
@@ -40,10 +40,10 @@ Back-end Developer
 Ditstek Innovations
 March 2019 - October 2021
 
-[Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.]
+>Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.
 ```
 
-##Skill Sets
+##✨Skill Sets✨
 
 - API
 
@@ -61,7 +61,7 @@ March 2019 - October 2021
 
   > Git, GitHub, Netlify, VS Code, Postman, Adobe XD, Figma, Photoshop
 
-## Projects
+## ⚔Projects⚔
 
 [Trackify](https://trackify-management.netlify.app/) 100% clear code, no bug, attractive UI/UX
 
