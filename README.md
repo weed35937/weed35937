@@ -51,15 +51,15 @@ March 2019 - October 2021
 
 - Front-end
 
-> React.js, Redux, Next.js, Angular.js, HTML, CSS, Bootstrap, Material UI, Flutter
+  > React.js, Redux, Next.js, Angular.js, HTML, CSS, Bootstrap, Material UI, Flutter
 
 - DevOps
 
-> AWS, Google Cloud, Docker, Jenkins, Nginx, Grafana, Kubernetes, Prometheus
+  > AWS, Google Cloud, Docker, Jenkins, Nginx, Grafana, Kubernetes, Prometheus
 
 - Others
 
-> Git, GitHub, Netlify, VS Code, Postman, Adobe XD, Figma, Photoshop
+  > Git, GitHub, Netlify, VS Code, Postman, Adobe XD, Figma, Photoshop
 
 ## Projects
 
