@@ -27,7 +27,7 @@ Grade :8.41 CGPA
 
 ## 💼Work Experience💼
 
-```ini
+```bash
 FullStack Developer
 SCS Group, Inc.
 May 2022 - August 2024
@@ -35,7 +35,7 @@ May 2022 - August 2024
 >Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS.
 ```
 
-```ini
+```bash
 Back-end Developer
 Ditstek Innovations
 March 2019 - October 2021
