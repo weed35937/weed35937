@@ -41,7 +41,7 @@ March 2019 - October 2021
 ```
 >Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.
 
-##✨Skill Sets✨
+## ✨Skill Sets✨
 
 - API
 
