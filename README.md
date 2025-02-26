@@ -27,16 +27,16 @@ Grade :8.41 CGPA
 
 ## 💼Work Experience💼
 
+[SCS Group, Inc.](https://drive.google.com/file/d/1rNMn9Wr7ibQ0Dz3_S3BIdCG-kMQkF-yZ/view?usp=sharing)
 ```bash
 FullStack Developer
-[SCS Group, Inc.](https://drive.google.com/file/d/1rNMn9Wr7ibQ0Dz3_S3BIdCG-kMQkF-yZ/view?usp=sharing)
 May 2022 - August 2024
 ```
 >Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS.
 
+[Ditstek Innovations](https://drive.google.com/file/d/1N7DXMwDukZfLN5b5oEjkTAIt-0jLtNp2/view?usp=sharing)
 ```bash
 Back-end Developer
-[Ditstek Innovations](https://drive.google.com/file/d/1N7DXMwDukZfLN5b5oEjkTAIt-0jLtNp2/view?usp=sharing)
 March 2019 - October 2021
 ```
 >Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.
