@@ -11,7 +11,7 @@
 🎯Who I am🎯:
 
 1.  `👑FullStack👑` Developer
-2.  `🎀Deginer🎀`
+2.  `🥇Computer🥇 Engineer`
 3.  `🔗BlockChain🔗` Developer
 
 ## 🥇Education🥇
@@ -19,8 +19,8 @@
 ```bash
 University of Hong Kong
 Bachelor of Computer Science
-Apr 2016 - Mar 2021
-Grade :8.41 CGPA
+Apr 2013 - Mar 2028
+Grade :8.71 CGPA
 ```
 
 > I got a Bachelor's degree in Computer Science at University of Hong Kong. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.
@@ -30,14 +30,14 @@ Grade :8.41 CGPA
 [SCS Group, Inc.](https://drive.google.com/file/d/1rNMn9Wr7ibQ0Dz3_S3BIdCG-kMQkF-yZ/view?usp=sharing)
 ```bash
 FullStack Developer
-May 2022 - August 2024
+March 2022 - November 2024
 ```
 >Worked closely with product managers, designers, and other developers to develop React front-end using modular, reusable components to enable maintainability, scalability and maximizing rendering efficiency. Developed a wide range of backend micro services and infrastructures in Python, Django, PostgreSQL and AWS.
 
 [Ditstek Innovations](https://drive.google.com/file/d/1N7DXMwDukZfLN5b5oEjkTAIt-0jLtNp2/view?usp=sharing)
 ```bash
 Back-end Developer
-March 2019 - October 2021
+August 2018 - January 2022
 ```
 >Worked with a great team building a brand-new, multi-product insurance quoting application. Consumed AWS API. Use mostly: React, Typescript, Formik, and Material UI. Recently rolled out production App for several states and in process of adding some more- whilst refining the current product. Redesigned and improved existing micro-services that served several internal services using Python technologies in order to achieve desired reliability and scalability requirements.
 
