@@ -1,4 +1,4 @@
-# 🏆Ivan Sheihys🏆
+# 🏆Ivan Romanenko🏆
 
 > Talented JavaScript Developer specialized with various JS FrameWork
 
