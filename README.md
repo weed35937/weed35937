@@ -4,7 +4,7 @@
 
 > An ambitious developer who has taken a big step towards blockchain development.
 
-## [👉Intruduction](https://ivansheihys-dev.netlify.app/)
+## 👉Intruduction
 
 🎯Who I am🎯:
 
